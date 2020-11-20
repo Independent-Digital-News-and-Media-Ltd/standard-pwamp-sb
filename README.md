@@ -1,0 +1,18 @@
+# Image snapshot diff files for [refactor/article-ads](https://github.com/brightsitesconsulting/standard-pwamp/pull/544)
+
+## Updated snapshots
+- [article-amp-page--amp-article-page-story](./article-amp-page--amp-article-page-story)
+- [article-amp-page--amp-gallery-article-page-story](./article-amp-page--amp-gallery-article-page-story)
+- [article-amp-page--amp-video-article-page-story](./article-amp-page--amp-video-article-page-story)
+- [article-content--default-article-content-story](./article-content--default-article-content-story)
+- [article-gallery--default-article-story](./article-gallery--default-article-story)
+- [article-gallery--insider-article-story](./article-gallery--insider-article-story)
+- [article-gallery--live-blog-story](./article-gallery--live-blog-story)
+- [article-page--article-page-story](./article-page--article-page-story)
+- [article-page--insider-article-story](./article-page--insider-article-story)
+- [article-page--live-blog-story](./article-page--live-blog-story)
+- [article-video--default-article-story](./article-video--default-article-story)
+- [article-video--insider-article-story](./article-video--insider-article-story)
+- [article-video--live-blog-story](./article-video--live-blog-story)
+- [other-components-newslettercomponent--amp-newsletter-story](./other-components-newslettercomponent--amp-newsletter-story)
+- [other-components-newslettercomponent--newsletter-story](./other-components-newslettercomponent--newsletter-story)
