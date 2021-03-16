@@ -1,0 +1,17 @@
+# Image snapshot diff files for [performance-storybook](https://github.com/brightsitesconsulting/standard-pwamp/pull/768)
+
+## Updated snapshots
+- [article-content--default-article-content-story](./article-content--default-article-content-story)
+- [article-gallery--live-blog-story](./article-gallery--live-blog-story)
+- [article-page--article-link-embed-story](./article-page--article-link-embed-story)
+- [article-page--live-blog-story](./article-page--live-blog-story)
+- [article-page--static-article-story](./article-page--static-article-story)
+- [article-video--live-blog-story](./article-video--live-blog-story)
+- [other-components-newslettercomponent--amp-newsletter-story](./other-components-newslettercomponent--amp-newsletter-story)
+- [other-components-newslettercomponent--insider-amp-newsletter-story](./other-components-newslettercomponent--insider-amp-newsletter-story)
+- [other-components-newslettercomponent--newsletter-story](./other-components-newslettercomponent--newsletter-story)
+- [other-components-newslettercomponent--reveller-amp-newsletter-story](./other-components-newslettercomponent--reveller-amp-newsletter-story)
+- [other-components-newslettercomponent--weekender-amp-newsletter-story](./other-components-newslettercomponent--weekender-amp-newsletter-story)
+- [other-pages-topics-list--topics-page-index](./other-pages-topics-list--topics-page-index)
+- [profile-page--profile-page-password-story](./profile-page--profile-page-password-story)
+- [profile-page--register-page-story](./profile-page--register-page-story)
